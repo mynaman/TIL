@@ -1,7 +1,7 @@
 # Migratory Birds
 
 ## Problem
-https://www.hackerrank.com/challenges/migratory-birds/problema
+https://www.hackerrank.com/challenges/migratory-birds/problem
 
 ## solve (javascript)
 ```javascript
