@@ -1,4 +1,4 @@
-# Breaking the Records
+# Birthday Chocolate
 
 ## Problem
 https://www.hackerrank.com/challenges/the-birthday-bar/problem
